@@ -120,7 +120,7 @@ header .profile-image:hover {
 .contact {
   margin: 30px;
   padding: 20px 40px 40px;
-  max-width: 1000px;
+  max-width: 600px;
   text-align: left;
   background: rgb(228, 225, 225);
   border-bottom: 15px solid rgb(143, 139, 139);
@@ -197,7 +197,7 @@ ul.xpskills {
 }
 
 ul.sociallinks {
- text-align: center;
+ text-align: left;
  padding: 0px;
 }
 
